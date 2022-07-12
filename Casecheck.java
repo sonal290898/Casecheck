@@ -1,5 +1,5 @@
-# Casecheck
-Check case are in Lower or upper class
+/*# Casecheck
+Check case are in Lower or upper class*/
   import java.util.Scanner;
  public class Checkclass{
      public static void main(String args []){
